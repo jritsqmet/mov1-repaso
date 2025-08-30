@@ -7,6 +7,9 @@ export default function ContactosScreen() {
 
       <Text>ContactosScreen</Text>
       <Text>Joel Torres</Text>
+      <Text>Julio Rosero</Text>
+      <Text>Matrix</Text>
+      <Text>Bastardos sin gloria</Text>
 
     </View>
   )
