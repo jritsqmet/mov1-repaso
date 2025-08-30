@@ -8,6 +8,8 @@ export default function ContactosScreen() {
       <Text>ContactosScreen</Text>
       <Text>Joel Torres</Text>
 
+      <Text>Pelicula Inception</Text>
+      <Text>Pelicula Interestelar</Text>
     </View>
   )
 }
