@@ -10,6 +10,8 @@ export default function ContactosScreen() {
       <Text>Julio Rosero</Text>
       <Text>Matrix</Text>
       <Text>Bastardos sin gloria</Text>
+      <Text>Narnia</Text>
+      <Text>demon</Text>
 
     </View>
   )
