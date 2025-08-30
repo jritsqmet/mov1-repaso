@@ -5,6 +5,7 @@ export default function ContactosScreen() {
   return (
     <View>
       <Text>Alex Toapanta</Text>
+      <Text>Alex Lumb</Text>
     </View>
   )
 }
