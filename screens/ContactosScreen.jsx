@@ -12,6 +12,8 @@ export default function ContactosScreen() {
       <Text>Bastardos sin gloria</Text>
       <Text>Narnia</Text>
       <Text>demon</Text>
+      <Text> Jhon Wik</Text>
+      <Text>Espinazo del Diablo</Text>
 
       <Text>Pelicula Inception</Text>
       <Text>Pelicula Interestelar</Text>
