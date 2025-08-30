@@ -4,7 +4,7 @@ import React from 'react'
 export default function ContactosScreen() {
   return (
     <View>
-      <Text>ContactosScreen</Text>
+      <Text>Alex Toapanta</Text>
     </View>
   )
 }
